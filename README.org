@@ -1,0 +1,3 @@
+#+TITLE: diht
+
+~diht~ tells me whether I have time to do things.
